@@ -28,7 +28,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: dto80/331-lab06:latest
+          tags: nito5020/se331-lab06:latest
       -
         name: prepare the docker-compose run
         run: |
